@@ -1,0 +1,65 @@
+{
+  "id": "1799307",
+  "name": "sensoro-graph",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "13910437",
+      "name": "房间",
+      "font_class": "fangjian",
+      "unicode": "e626",
+      "unicode_decimal": 58918
+    },
+    {
+      "icon_id": "13938579",
+      "name": "楼层",
+      "font_class": "juxing",
+      "unicode": "e628",
+      "unicode_decimal": 58920
+    },
+    {
+      "icon_id": "15338845",
+      "name": "预警事件",
+      "font_class": "yujingshijian",
+      "unicode": "e65d",
+      "unicode_decimal": 58973
+    },
+    {
+      "icon_id": "9240108",
+      "name": "car",
+      "font_class": "car",
+      "unicode": "e6db",
+      "unicode_decimal": 59099
+    },
+    {
+      "icon_id": "11682540",
+      "name": "楼_填充",
+      "font_class": "common-floor",
+      "unicode": "e7bb",
+      "unicode_decimal": 59323
+    },
+    {
+      "icon_id": "12197507",
+      "name": "视频监控",
+      "font_class": "monitor",
+      "unicode": "e816",
+      "unicode_decimal": 59414
+    },
+    {
+      "icon_id": "12041423",
+      "name": "unit",
+      "font_class": "common-unit",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "14437388",
+      "name": "定位",
+      "font_class": "dingwei",
+      "unicode": "e622",
+      "unicode_decimal": 58914
+    }
+  ]
+}
